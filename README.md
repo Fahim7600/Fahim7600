@@ -1,6 +1,6 @@
 <!-- Banner: replace this src with your own uploaded banner (see guide) -->
 <p align="center">
-  <img src="YOUR-BANNER-IMAGE-URL" width="100%"/>
+  <img src="./Fahim_background.png" width="100%"/>
 </p>
 
 <h3 align="center">Hi, I'm Fahim 👋</h3>

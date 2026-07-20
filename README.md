@@ -4,6 +4,9 @@
 </p>
 
 <h3 align="center">Hi, I'm Fahim 👋</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;React+%2F+Next.js+%2F+Node.js;Building+End-to-End+Web+Systems" />
+</p>
 <p align="center">Full-Stack Engineer — React/Next.js · Node.js/Express · building end-to-end web systems</p>
 
 <p align="center">
